@@ -36,14 +36,7 @@ Each folder corresponds to a lab session, containing **Python implementations** 
 | **Lab 13** | Heaps | Heap creation, insertion, deletion, heap sort |
 | **Lab 14** | Graph Algorithms | Graph representation & traversal (DFS, BFS) |
 
----
 
-## 🚀 How to Run  
-
-Clone the repo and run any lab program:  
-
-```bash
-# Clone the repository
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
 
