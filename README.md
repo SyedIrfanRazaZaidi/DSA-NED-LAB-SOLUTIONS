@@ -11,7 +11,7 @@ The labs are designed to provide **hands-on practice** with fundamental data str
 - **Course Title:** Data Structures and Algorithms  
 - **University:** NED University of Engineering & Technology  
 - **Department:** Computer & Information Systems Engineering  
-- **Instructor(s):** Ms. Fauzia Yasir & Ms. Ibshar Ishrat (Workbook Authors)  
+- **Instructor(s):** Ms. Sumayya zafar  
 
 ---
 
@@ -37,9 +37,3 @@ Each folder corresponds to a lab session, containing **Python implementations** 
 | **Lab 14** | Graph Algorithms | Graph representation & traversal (DFS, BFS) |
 
 
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-
-# Run a specific lab program
-python lab01/lab1_exercise1.py
-python lab02/lab2_insertion.py
